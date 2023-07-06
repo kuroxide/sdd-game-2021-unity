@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Level0.unity
+    guid: e4b7e3851b17a9643b84e5593f2cafd0
+  - enabled: 1
+    path: Assets/Scenes/Level1.unity
+    guid: 8ae76658dde14f54a9eb21d3d518e2a8
+  - enabled: 1
+    path: Assets/Scenes/Level2.unity
+    guid: 731080898bf671b40b363f20cd53dbfb
+  - enabled: 1
+    path: Assets/Scenes/Level3.unity
+    guid: e947a07cc33d5ec44807fcf092e115db
+  - enabled: 1
+    path: Assets/Scenes/Level4.unity
+    guid: 7ad6faa63ce1baf45a7b9b40aca90f33
+  - enabled: 1
+    path: Assets/Scenes/Level5.unity
+    guid: d0b6e60a6413e044daf26d249aec242f
+  - enabled: 1
+    path: Assets/Scenes/Level6.unity
+    guid: 0a6a1ae5cec35294f9468398d3731eea
+  - enabled: 1
+    path: Assets/Scenes/Level7.unity
+    guid: d732a6992aa580b42ac1500e63ae2dae
+  - enabled: 1
+    path: Assets/Scenes/Level8.unity
+    guid: aea8e808f71e95544879b225101ec962
+  - enabled: 1
+    path: Assets/Scenes/Level9.unity
+    guid: 09afb4fb0901f514aa6bb0ab5804c947
+  - enabled: 1
+    path: Assets/Scenes/Level10.unity
+    guid: b0eef251b43d8794cbec36cfca1a41a3
+  - enabled: 1
+    path: Assets/Scenes/Level11.unity
+    guid: aad5f57e88e654040ab72031609c7ae8
+  - enabled: 1
+    path: Assets/Scenes/ExtraStage0.unity
+    guid: d1922d75b33b1ed448cf62190e3364ee
+  - enabled: 1
+    path: Assets/Scenes/ExtraStage1.unity
+    guid: 781c555cd9878d64896244abf49c0754
+  - enabled: 1
+    path: Assets/Scenes/ExtraStage2.unity
+    guid: 85ecec9fc2e84cd45bdbdc545080bffc
+  - enabled: 1
+    path: Assets/Scenes/ExtraStage3.unity
+    guid: da2fcb47cd16e6a4a8d2f0e0ff81f1c5
+  - enabled: 1
+    path: Assets/Scenes/ExtraStage4.unity
+    guid: e2dae11832125ef4fa4528ec2dc312c9
+  - enabled: 1
+    path: Assets/Scenes/ExtraStage5.unity
+    guid: 5dac92051cb863f4597ebfcfbb9939c8
+  - enabled: 1
+    path: Assets/Scenes/ExtraStage6.unity
+    guid: e6fd14b2294d7d94bad5ee69360a0688
+  - enabled: 1
+    path: Assets/Scenes/ExtraStage7.unity
+    guid: 95c4964e495317e4eb9cd8cbe9174be6
+  - enabled: 1
+    path: Assets/Scenes/ExtraStage8.unity
+    guid: 4b49a1aea54bc5a4da4d5283d280c653
+  - enabled: 1
+    path: Assets/Scenes/ExtraStage9.unity
+    guid: 8400790bc4a2f7c4ba2522a36e7a150d
+  - enabled: 1
+    path: Assets/Scenes/ExtraStage10.unity
+    guid: 0ed8fe434ec380c4cbd4f7d7da3c4184
+  m_configObjects: {}
